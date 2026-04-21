@@ -1,0 +1,7 @@
+flask
+python-dotenv
+openai
+requests
+pandas
+scikit-learn
+gunicorn
